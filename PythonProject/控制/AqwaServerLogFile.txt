@@ -1,0 +1,4 @@
+Socket created
+# Server waiting for a connection from an AqwaClient on
+DESKTOP-DFTERC1:65035
+Socket now listening
